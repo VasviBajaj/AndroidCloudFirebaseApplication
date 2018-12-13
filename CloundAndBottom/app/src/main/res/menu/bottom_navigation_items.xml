@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/upload"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="Upload"/>
+    <item
+        android:id="@+id/show"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Show"/>
+</menu>
